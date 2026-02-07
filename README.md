@@ -168,15 +168,6 @@ npm run dev
 In a separate terminal, start Inngest Dev Server for event-driven workflows:
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to contribute to StockMe:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ---
 
@@ -195,19 +186,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - [TradingView](https://www.tradingview.com/) for interactive chart widgets
 
 ---
-
-## 📧 Contact
-
-**Vikas Patel** - [patelvikas276@gmail.com](mailto:patelvikas276@gmail.com)
-
-Project Link: [https://github.com/iamvikaspatel/StockMe](https://github.com/iamvikaspatel/StockMe)
-
----
-
-<div align="center">
-  <p>Built with ❤️ by <a href="https://github.com/iamvikaspatel">Vikas Patel</a></p>
-  <p>⭐ Star this repo if you find it helpful!</p>
-</div
 
 ## <a name="project-structure">📁 Project Structure</a>
 
