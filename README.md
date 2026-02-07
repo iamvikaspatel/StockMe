@@ -48,10 +48,6 @@
 - **Interactive Charts**: TradingView widgets for both line charts and candlestick patterns
 - **Responsive Design**: Beautiful UI built with Shadcn components and TailwindCSS 4
 
-Whether you're a developer learning full-stack development, a trader needing market insights, or an investor tracking your portfolio, StockMe provides the tools you need in a clean, intuitive interface
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
 
 
 
