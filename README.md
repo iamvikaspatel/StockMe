@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-Finnhub_API-black?style=for-the-badge&logoColor=white&logo=finnhub&color=EF4444"/>
   </div>
 
-  <h1 align="center">📈 StockMe - AI-Powered Stock Market Tracker</h1>
+  <h1 align="center"> StockMe - AI-Powered Stock Market Tracker</h1>
   
   <p align="center">
     <strong>Real-time stock tracking, intelligent alerts, and AI-driven market insights</strong>
@@ -34,11 +34,11 @@
 
 ---
 
-## <a name="introduction">✨ Introduction</a>
+## <a name="introduction"> Introduction</a>
 
 **StockMe** is a modern, full-stack stock market tracking application that empowers users to monitor financial markets in real-time with intelligent automation. Built with cutting-edge technologies like **Next.js 15**, **MongoDB**, **Better Auth**, and **Inngest**, StockMe delivers a seamless experience for tracking stocks, managing watchlists, and receiving personalized alerts.
 
-### 🎯 What Makes StockMe Special?
+###  What Makes StockMe Special?
 
 - **Real-Time Market Data**: Integration with Finnhub API provides live stock prices, historical charts, and company financials
 - **Event-Driven Architecture**: Powered by Inngest for automated workflows, background jobs, and scheduled tasks
@@ -51,13 +51,13 @@
 
 
 
-## <a name="introduction">✨ Introduction</a>
+## <a name="introduction"> Introduction</a>
 
 AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and Inngest! Track real-time prices, set personalized alerts, explore company insights, and manage watchlists. The admin dashboard allows managing stocks, publishing news, and monitoring user activity, while event-driven workflows power automated alerts, AI-driven daily digests, earnings notifications, and sentiment analysis—perfect for devs who want a dynamic, real-time financial platform.
 
 
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack"> Tech Stack</a>
 
 - **[Better Auth](https://www.better-auth.com/)** is a framework-agnostic authentication and authorization library for TypeScript. It provides built-in support for email/password login, social sign-on (Google, GitHub, Apple, and more), and multi-factor authentication, simplifying user authentication and account management.
 
@@ -79,7 +79,7 @@ AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and 
 - **[TailwindCSS](https://tailwindcss.com/)** is a utility-first CSS framework that allows developers to build custom, responsive designs quickly without leaving their HTML. It provides pre-defined classes for layout, typography, colors, and more.
 
 - **[TypeScript](https://www.typescriptlang.org/)** is a statically typed superset of JavaScript that improves code quality, tooling, and error detection. It is ideal for building large-scale applications and enhances maintainability.
-### 📊 Core Functionality
+###  Core Functionality
 
 - **Real-Time Stock Dashboard**
   - Live price updates from Finnhub API
@@ -119,7 +119,7 @@ cd StockMengest)**
   - Background job processing
   - Webhook integrations
 
-### 🔐 Authentication & User Management
+###  Authentication & User Management
 
 - **Secure Authentication with Better Auth**
   - Email/password registration and login
@@ -167,13 +167,13 @@ In a separate terminal, start Inngest Dev Server for event-driven workflows:
 
 ---
 
-## 📝 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Finnhub](https://finnhub.io/) for providing free stock market data API
 - [Inngest](https://www.inngest.com/) for event-driven workflow platform
@@ -239,7 +239,7 @@ StockMe/
 
 ---
 
-## <a name="architecture">🏗️ Architecture & Key Concepts</a>
+## <a name="architecture"> Architecture & Key Concepts</a>
 
 ### Tech Stack Overview
 
@@ -284,7 +284,7 @@ inngest.createFunction(
 - Google Gemini API generates market summaries
 - Custom prompts for different use cases
 - Automated daily digest emails
-### 🔑 Getting Your API Keys:
+###  Getting Your API Keys:
 
 1. **Finnhub**: Sign up at [finnhub.io](https://finnhub.io) → Get free API key
 2. **MongoDB**: Create cluster at [MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database) → Get connection string
@@ -292,7 +292,7 @@ inngest.createFunction(
 4. **Nodemailer**: For Gmail, enable [2FA](https://myaccount.google.com/security) → Generate [App Password](https://myaccount.google.com/apppasswords)
 5. **Inngest**: Sign up at [inngest.com](https://www.inngest.com) → Get event and signing keys
 
-⚠️ **Important**: Never commit your `.env.local` file to version control!
+ **Important**: Never commit your `.env.local` file to version control!
 Make sure you have the following installed on your machine:
 
 - [Git](https://git-scm.com/)
